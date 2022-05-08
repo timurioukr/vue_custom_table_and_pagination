@@ -8,7 +8,7 @@
 
 <script>
 
-import {mapActions, mapGetters} from 'vuex'
+import { mapActions, mapGetters } from 'vuex'
 import vTable from '../src/components/table/v-table.vue'
 
 export default {

@@ -35,7 +35,7 @@ export default {
   }
   .row {
     flex-basis: 25%;
-    padding: 8px 16px;
+    padding: 8px 0px;
     text-align: left;
   }
 </style>
